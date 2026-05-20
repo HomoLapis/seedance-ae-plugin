@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs (the CEP bundle in client/assets is committed; everything else isn't)
+frontend-src/dist/
+frontend-src/.vite/
+*.zxp
+*.zip
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local install artifacts
+.tmp/
+.cache/
+
+# Environment files (just in case — this project should NOT have any)
+.env
+.env.*
+!.env.example
+
+# Backups (do NOT commit your backup zips into the OSS repo)
+*.bak
+*.backup
+*_BACK*
+*_BACKUP*
+*_WORK*
+seedance-ae-plugin_*.zip
+seedance-studio*backup*/
+
+# Adobe / CEP-specific noise
+*.debug.swp
+ExtensionLog/
+
+# Local-only docs (drop personal scratch notes here)
+note-sviluppo*/
+DOCUMENTAZIONE*/
+
+# Demo-video work-in-progress (raw MP4 from screen recording / AE export).
+# The final docs/demo.gif IS committed; the intermediate MP4 should not be.
+docs/*.mp4
+docs/*.mov
+docs/*-raw.*

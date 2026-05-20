@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-label="Seedance Studio social preview">
+  <rect width="1280" height="640" fill="#0d0d0f"/>
+  <g font-family="-apple-system, Segoe UI, sans-serif" text-anchor="middle">
+    <text x="640" y="270" font-size="110" font-weight="bold" fill="#f7f7f5">Seedance Studio</text>
+    <text x="640" y="350" font-size="36" fill="#a6a6a8">First open-source After Effects panel for Seedance 2.0</text>
+  </g>
+  <text x="1220" y="590" font-family="-apple-system, Segoe UI, sans-serif" font-size="28" font-weight="bold" fill="#ff6b35" text-anchor="end">homolapis.ai</text>
+</svg>

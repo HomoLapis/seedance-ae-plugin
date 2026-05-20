@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800" width="1400" height="800" role="img" aria-label="Seedance Studio architecture diagram placeholder">
+  <rect width="1400" height="800" fill="#f7f7f5"/>
+  <rect x="180" y="300" width="1040" height="200" fill="none" stroke="#111" stroke-width="2" rx="12"/>
+  <g font-family="-apple-system, Segoe UI, sans-serif" text-anchor="middle" fill="#111">
+    <text x="700" y="410" font-size="36">Architecture diagram placeholder.</text>
+    <text x="700" y="460" font-size="36">Replace with real diagram.</text>
+  </g>
+</svg>
